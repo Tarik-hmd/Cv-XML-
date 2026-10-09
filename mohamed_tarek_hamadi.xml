@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<curriculum>
+
+  
+  <datos_personales>
+    <nombre>Mohamed Tarek</nombre>
+    <apellidos>
+      <primer_apellido>Hamadi</primer_apellido>
+      <segundo_apellido />
+    </apellidos>
+    <nacimiento>
+      <fecha dia="20" mes="03" anio="2006" /> 
+      <lugar>Argelia</lugar>
+    </nacimiento>
+    <nacionalidades>
+      <nacionalidad>Argelina</nacionalidad>
+    </nacionalidades>
+    <fotografia>tarek_hamadi.jpg</fotografia>
+  </datos_personales>
+  <contacto>
+    <direccion>
+      <tipo_via>Carrer</tipo_via>
+      <nombre_via>de benieu</nombre_via>
+      <numero>4</numero>
+      <puerta>117</puerta>
+      <codigo_postal>46001</codigo_postal>
+      <ciudad>Valencia</ciudad>
+      <pais>España</pais>
+    </direccion>
+    <email>tarekhamadi38@gmail.com</email>
+    <telefono_movil>662654308</telefono_movil>
+  </contacto>
+
+  
+  <contacto_adicional>
+    <redes_sociales>
+      <red nombre="LinkedIn">https://linkedin.com/in/tarek-mohamed-hamadi-8a9637296</red>
+      <red nombre="Instagram">https://instagram.com/tareek.hmd</red>
+    </redes_sociales>
+  </contacto_adicional>
+
+  
+  <formacion>
+    <estudio>
+      <titulacion>Desarrollo de Aplicaciones Multiplataforma (DAM)</titulacion>
+      <centro>Florida Cicles Formatius, Valencia, España</centro>
+      <inicio mes="09" anio="2026" />
+      <fin mes="06" anio="2028" />
+    </estudio>
+    <estudio>
+      <titulacion>Bachelor en Informática (1 año cursado)</titulacion>
+      <centro>Vistula University, Polonia</centro>
+      <inicio mes="09" anio="2025" />
+      <fin mes="06" anio="2026" />
+    </estudio>
+    <estudio>
+      <titulacion>Primer año de universidad en Ciencias y Tecnología</titulacion>
+      <centro>Universidad, Argelia</centro>
+      <inicio mes="09" anio="2023" />
+      <fin mes="06" anio="2024" />
+    </estudio>
+    <estudio>
+      <titulacion>Bachillerato científico-técnico, especialidad Ingeniería Civil</titulacion>
+      <centro>Instituto, Argelia</centro>
+      <inicio mes="09" anio="2020" /> 
+      <fin mes="06" anio="2023" />
+    </estudio>
+  </formacion>
+
+  
+  <idiomas>
+    <idioma materno="si">
+      <nombre>Francés</nombre>
+      <expresion_oral>alto</expresion_oral>
+      <comprension_oral>alto</comprension_oral>
+      <expresion_escrita>alto</expresion_escrita>
+    </idioma>
+    <idioma materno="si">
+      <nombre>Cabilio</nombre>
+      <expresion_oral>alto</expresion_oral>
+      <comprension_oral>alto</comprension_oral>
+      <expresion_escrita>medio</expresion_escrita>
+    </idioma>
+    <idioma materno="si">
+      <nombre>Árabe</nombre>
+      <expresion_oral>alto</expresion_oral>
+      <comprension_oral>alto</comprension_oral>
+      <expresion_escrita>alto</expresion_escrita>
+    </idioma>
+    <idioma materno="no">
+      <nombre>Inglés</nombre>
+      <expresion_oral>alto</expresion_oral>
+      <comprension_oral>alto</comprension_oral>
+      <expresion_escrita>alto</expresion_escrita>
+    </idioma>
+    <idioma materno="no">
+      <nombre>Valenciano</nombre>
+      <expresion_oral>bajo</expresion_oral>
+      <comprension_oral>bajo</comprension_oral>
+      <expresion_escrita>bajo</expresion_escrita>
+    </idioma>
+  </idiomas>
+
+  
+  <experiencia_laboral>
+    <experiencia>
+      <empresa>Chams Beach Club by Sheraton (antes Voiles Beach Club), Argelia</empresa>
+      <puesto>Host</puesto>
+      <inicio dia="01" mes="06" anio="2025" />
+      <fin dia="31" mes="10" anio="2025" />
+    </experiencia>
+    <experiencia>
+      <empresa>Educ-Tech y Digital African Summit, Argelia</empresa>
+      <puesto>Staff polivalente en eventos y salones profesionales</puesto>
+      <inicio dia="01" mes="01" anio="2024" />
+      <fin dia="31" mes="12" anio="2025" />
+    </experiencia>
+    <experiencia>
+      <empresa>Marktel, Argelia</empresa>
+      <puesto>Agente de call center</puesto>
+      <inicio dia="08" mes="01" anio="2024" />
+      <fin dia="31" mes="05" anio="2024" />
+    </experiencia>
+  </experiencia_laboral>
+
+  
+  <competencias>
+    <competencia>
+      <nombre>Liderazgo</nombre>
+      <nivel>4</nivel>
+    </competencia>
+    <competencia>
+      <nombre>Trabajo en equipo</nombre>
+      <nivel>5</nivel>
+    </competencia>
+    <competencia>
+      <nombre>Iniciativa</nombre>
+      <nivel>5</nivel>
+    </competencia>
+    <competencia>
+      <nombre>Creatividad</nombre>
+      <nivel>4</nivel>
+    </competencia>
+    <competencia>
+      <nombre>Autonomía</nombre>
+      <nivel>5</nivel>
+    </competencia>
+  </competencias>
+
+  
+  <otros_datos>
+    <aficiones>
+      <aficion>Producción musical y guitarra</aficion>
+      <aficion>Arte urbano y graffiti</aficion>
+      <aficion>Entrenamiento y fitness</aficion>
+    </aficiones>
+    <disponibilidad_viajar>si</disponibilidad_viajar>
+    <vehiculo_propio>no</vehiculo_propio>
+    <permisos_conducir>
+      <permiso>B</permiso>
+    </permisos_conducir>
+    <proyectos>
+      <proyecto>Fundador de Tracvio (e-commerce de accesorios de fitness)</proyecto>
+      <proyecto>Cofundador de Azru (casa de moda)</proyecto>
+      <proyecto>Desarrollador web freelance (sitio web para academia de tenis)</proyecto>
+    </proyectos>
+  </otros_datos>
+
+</curriculum>
